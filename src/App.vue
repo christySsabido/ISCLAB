@@ -6,7 +6,7 @@ import abajo from './components/abajo.vue'
 </script>
 
 <template>
-  <header class="bg-sky-600">
+  <header class="bg-pink-500">
 
     <div class="flex flex-wrap justify-center ">
   <img
